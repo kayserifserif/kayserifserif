@@ -51,11 +51,16 @@ in the command line:
 <table>
   <tr>
     <td>
+      <h3><a href="https://github.com/whykatherine/uselessprogram">uselessprogram</a></h3>
+      <p>a runnable code poem inspired by and adapted from eloquent javascript</p>
+    </td>
+    <td>
       <h3><a href="https://github.com/whykatherine/takesnoarguments">takesnoarguments</a></h3>
       <p>an e-literature experiment about arguments</p>
     </td>
   </tr>
   <tr>
+    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
     <td><img src="https://camo.githubusercontent.com/dc8145f5546858ed7faab76911e2a2471519bd1d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f3335373241352f3030303030303f746578743d2b"> Python</td>
   </tr>
 </table>
