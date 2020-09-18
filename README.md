@@ -87,4 +87,4 @@ with movement:
 
 here's my [portfolio](https://whykatherine.github.io), and you can also find me on [Instagram](https://instagram.com/kayserifserif), [Twitter](https://twitter.com/bookwormgirl910), [Glitch](https://glitch.com/@bookwormgirl910), and [LinkedIn](https://linkedin.com/in/whykatherine). happy to talk or even collaborate! thanks for visiting 😊
 
-colophon: some styling borrowed from [Lingdong Huang](https://github.com/LingDong-/) 🙏
+colophon adapted from [Lingdong Huang](https://github.com/LingDong-/) 🙏
