@@ -1,4 +1,4 @@
-## hi there, welcome! 👋
+# hi there, welcome! 👋
 
 katherine (she/her): hong kong–born / los angeles–bound creative coder, data visualiser, amateur linguist, interactive designer, accessibility and museum and urbanism enthusiast, academia nerd.
 
@@ -12,76 +12,6 @@ here are some tech things that make me giddy or galvanised, and some people who 
 - community building ← [Ashley Kang](https://ashleykang.dev/), [Taeyoon Choi](http://taeyoonchoi.com/)
 - computational linguistics and text as data
 - green tech
-
-## favourite projects so far 🔨
-
-on the web:
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/whykatherine/wakingandsleeping">wakingandsleeping</a></h3>
-      <p>"Good morning" and "good night" tweets, mapped.</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/whykatherine/emotionspoem">emotionspoem</a></h3>
-      <p>One-syllable emotions, felt in waves turbulent, uneven, overlapping, and without end.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
-    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/whykatherine/agloballanguage">agloballanguage</a></h3>
-      <p>An interactive visualisation tool exploring the etymological history of the English language.</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/whykatherine/hyperlinked-narratives">hyperlinked-narratives</a></h3>
-      <p>A Wikipedia-based narrative tool.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
-    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
-  </tr>
-</table>
-
-in the command line:
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/whykatherine/uselessprogram">uselessprogram</a></h3>
-      <p>a runnable code poem inspired by and adapted from eloquent javascript</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/whykatherine/takesnoarguments">takesnoarguments</a></h3>
-      <p>an e-literature experiment about arguments</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/565c9011287476bd4bc47fb88672dffe72b3235d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f6631653035612f3030303030303f746578743d2b"> JavaScript</td>
-    <td><img src="https://camo.githubusercontent.com/dc8145f5546858ed7faab76911e2a2471519bd1d/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f3335373241352f3030303030303f746578743d2b"> Python</td>
-  </tr>
-</table>
-
-with movement:
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/whykatherine/FAAInteractiveBrand">FAAInteractiveBrand</a></h3>
-      <p>Camera-based interactive brand installation for Fine Art Asia with Superunion.</p>
-    </td>
-    <td>
-      <h3><a href="https://github.com/whykatherine/Bluebirds">Bluebirds</a></h3>
-      <p>A Twitter interface/visualisation based on Daniel Shiffman's flocking algorithm.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/9c44919c66e5a3974e8d3225a9d472398da549ac/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f3030393644382f3030303030303f746578743d2b"> Processing</td>
-    <td><img src="https://camo.githubusercontent.com/9c44919c66e5a3974e8d3225a9d472398da549ac/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31322f3030393644382f3030303030303f746578743d2b"> Processing</td>
-  </tr>
-</table>
 
 ## elsewhere 🚇
 
