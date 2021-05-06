@@ -1,6 +1,6 @@
 # Hi there, welcome! 👋
 
-I’m a creative technologist interested in designing and developing for interactive or experiential media. I’m particularly interested in poetic tools. Current research interests include: critical code studies, internet culture and language, interface aesthetics, electronic literature, and poetic tech.
+I’m a creative technologist interested in designing and developing for interactive or experiential media. I particularly love making poetic tools. Current research interests include: critical code studies, internet culture and language, interface aesthetics, electronic literature, and poetic tech.
 
 This is a long but inexhaustive list of things and people I’m inspired by:
 - Critical code studies ← [Mark C. Marino](http://markcmarino.com/wordpress/)
