@@ -13,7 +13,7 @@ This is a long but inexhaustive list of things and people I’m inspired by:
 
 ## Elsewhere 🚇
 
-Here's my [portfolio](https://whykatherine.github.io), and you can also find me on [Instagram](https://instagram.com/kayserifserif), [Twitter](https://twitter.com/bookwormgirl910), [Glitch](https://glitch.com/@bookwormgirl910), and [LinkedIn](https://linkedin.com/in/whykatherine). Happy to talk or potentially collaborate! Thanks for visiting 😊
+Here's my [portfolio](https://whykatherine.github.io), and you can also find me on [Instagram](https://instagram.com/kayserifserif) and [Twitter](https://twitter.com/bookwormgirl910). Happy to talk or potentially collaborate! Thanks for visiting 😊
 
 ---
 
