@@ -1,5 +1,8 @@
-<p style="text-align: center">check out<br>
-✧･ﾟ: *✧･ﾟ:* 　<a href="https://github.com/coem-lang">coem: a poetic programming language</a>　 *:･ﾟ✧*:･ﾟ✧</p>
+✧･ﾟ: *✧･ﾟ:* 　[coem](https://github.com/coem-lang) — a poetic programming language　 *:･ﾟ✧*:･ﾟ✧
+
+---
+
+[instagram](https://instagram.com/kayserifserif) ˚✧ [twitter](https://twitter.com/bookwormgirl910) ˚✧ [portfolio](https://whykatherine.github.io)
 
 ```
                                  ________________________________________________
