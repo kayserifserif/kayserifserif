@@ -1,8 +1,8 @@
-✧･ﾟ: *✧･ﾟ:* 　[coem](https://github.com/coem-lang) — a poetic programming language　 *:･ﾟ✧*:･ﾟ✧
+<p align="center">✧･ﾟ: *✧･ﾟ:* 　<a href="https://github.com/coem-lang">coem</a> — a poetic programming language　 *:･ﾟ✧*:･ﾟ✧</p>
 
 ---
 
-[instagram](https://instagram.com/kayserifserif) ˚✧ [twitter](https://twitter.com/bookwormgirl910) ˚✧ [portfolio](https://whykatherine.github.io)
+<p align="center"><a href="https://instagram.com/kayserifserif">instagram</a> ˚✧ <a href="https://twitter.com/bookwormgirl910">twitter</a> ˚✧ <a href="https://whykatherine.github.io">portfolio</a></p>
 
 ```
                                  ________________________________________________
@@ -36,4 +36,4 @@
                     `---._.-------------------------------------------------------------._.---'
 ```
 
-> ascii art by [roland hangg](https://www.asciiart.eu/computers/computers) and [joan g. stark](https://www.asciiart.eu/plants/flowers); inspired by [jacky](https://github.com/jackyzha0) and [pppollen](https://twitter.com/pppollen/status/1552628948797952000)
+<p align="center"><i>ascii art by <a href="https://www.asciiart.eu/computers/computers">roland hangg</a> and <a href="https://www.asciiart.eu/plants/flowers">joan g. stark</a>; inspired by <a href="https://github.com/jackyzha0">jacky</a> and <a href="https://twitter.com/pppollen/status/1552628948797952000">pppollen</a></p>
